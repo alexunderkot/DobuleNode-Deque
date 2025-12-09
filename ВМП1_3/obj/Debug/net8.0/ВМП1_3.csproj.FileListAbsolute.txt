@@ -1,0 +1,14 @@
+D:\Лабы\ВМП1_3\ВМП1_3\bin\Debug\net8.0\ВМП1_3.exe
+D:\Лабы\ВМП1_3\ВМП1_3\bin\Debug\net8.0\ВМП1_3.deps.json
+D:\Лабы\ВМП1_3\ВМП1_3\bin\Debug\net8.0\ВМП1_3.runtimeconfig.json
+D:\Лабы\ВМП1_3\ВМП1_3\bin\Debug\net8.0\ВМП1_3.dll
+D:\Лабы\ВМП1_3\ВМП1_3\bin\Debug\net8.0\ВМП1_3.pdb
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\ВМП1_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\ВМП1_3.AssemblyInfoInputs.cache
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\ВМП1_3.AssemblyInfo.cs
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\ВМП1_3.csproj.CoreCompileInputs.cache
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\ВМП1_3.dll
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\refint\ВМП1_3.dll
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\ВМП1_3.pdb
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\ВМП1_3.genruntimeconfig.cache
+D:\Лабы\ВМП1_3\ВМП1_3\obj\Debug\net8.0\ref\ВМП1_3.dll
